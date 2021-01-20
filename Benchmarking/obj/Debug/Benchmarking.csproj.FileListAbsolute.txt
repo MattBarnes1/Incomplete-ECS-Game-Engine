@@ -1,0 +1,2 @@
+D:\XNATest\Legends\Benchmarking\obj\Debug\Benchmarking.csprojAssemblyReference.cache
+D:\XNATest\Legends\Benchmarking\obj\Debug\Benchmarking.csproj.CoreCompileInputs.cache
