@@ -2,4 +2,4 @@
 This was a small project I wrote to test how trivial it was to multithread systems using the data oriented design paradigm. At the time, I didn't know about cache locality and other concepts that I would later learn, but I succeeded in writing a scheduler that was able to organize information on entities and execute systems concurrently (if what they use is marked correctly). I managed to get it to work by depending on XNA for rendering. However, this wasn't enough and I tried to expand this engine to work with Vulkan Sharp. However, I never finished it because I realized Unity was doing the same and most of my team was against using a custom created engine. This was more just to see if I could do it. 
 
 -Uses items from the MonoGame repo to speed along development. 
--First heavy usage of TDD for programming. However, I didn't strictly follow the paradigm at times. 
+-First heavy usage of TDD for programming. However, I didn't strictly follow the paradigm at times.
